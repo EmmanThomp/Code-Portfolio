@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="UTF-8"/>
+        <meta charset="utf-8">
+        <title>Noirefy(Relativity page)</title>
+    </head>
+
+    <body style="background-color:white">
+        
+        <!-- I've put all of the styles into one stylesheet. This method allows other parts of your code to look cleaner & more organized.  -->
+
+        <style type="text/css">
+    
+            body {
+                margin: 0px;
+            }
+
+            .linkStyle {
+                text-align: center;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                padding-left: 10px;
+                padding-right: 10px;
+                background-image: url('https://abovethelaw.com/uploads/2017/08/relativity-logo-building.jpg');
+            }
+
+            .headerStyle {
+                background: #030E72;
+                padding: 40px;
+                position: relative;
+            }
+
+            .tab {
+                background: #030E72;
+                width: 20%;
+            }
+
+            .logo {
+                border-radius: 2px;
+                height: 60px;
+                margin: 0px;
+                position: relative;
+            }
+
+            .logoContainer {
+                border-radius: 2px;
+                position: absolute;
+                margin-left: -20px;
+                margin-top: -20px;
+                padding: 2px;
+                height: 60px;
+                background-color: red;
+            }
+
+        </style>
+        
+        <!-- End of stylesheet.  -->
+    
+    
+        
+        <div class="headerStyle">
+            <div class="logoContainer">
+                <img class="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXRVKPRrf-q6GU0URXQLB1NvlDppIU4iY9gYTbKilcf1HD-Fcckg">
+            </div>
+            <center>
+                <h1 style="color: orange">
+                    <font face="Sans-serif"> Get Real With Relativity </font>
+                </h1>
+                <h3 style="color: white">
+                    <font face="Sans-serif"> Relativity provides eDiscovery software solutions that give coporations, governments, and Law firms tools to manage litigations, investigations and FOIA requests. </font>
+                </h3>
+            </center>
+        </div>
+        
+        <table width="100%" border="0" cellspacing="0" cellpadding="20">
+            <tbody>
+                <tr>
+                    <td style="width: 33%"><img src="https://www.blackradionetwork.com/images/headline/1305917738.jpg" alt="profesionalImg" style="width: 100%;"></td>
+                    <td style="width: 33%">
+                        <font face="Sans-serif">
+                            <h2 style="color: orange; text-align: center;">Available positions!</h2>
+                        </font>
+                    </td>
+                    <td style="width: 33%">
+                        <img src="https://media.licdn.com/dms/image/C560BAQHiMVZ1ZOmrug/company-logo_200_200/0?e=2159024400&v=beta&t=BOUS2xlcD-02vfNbGLgsezlPFQP_YiCm4n918wv9tiY" style="width: 100%;" alt="coders">
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        
+        
+        <center>
+            <div class="linkStyle">
+                <font face="Sans-serif">
+                    <p>
+                        <a href="https://www.relativity.com/careers/available-positions/" style="color: white"> Software Engineer </a>
+                    </p>
+                    <p>
+                        <a href="https://www.relativity.com/careers/available-positions/" style="color: white"> Advanced Software Engineer </a>
+                    </p>
+                    <p>
+                        <a href="https://www.relativity.com/careers/available-positions/" style="color: white">Project Manager </a>
+                    </p>
+                    <p>
+                        <a href="https://www.relativity.com/careers/available-positions/" style="color: white"> Customer Success Manager </a>
+                    </p>
+                    <p>
+                        <a href="https://www.relativity.com/careers/available-positions/" style="color: white"> Advanced DevOps Engineer </a>
+                    </p>
+                    <p> 
+                        <a href="https://www.relativity.com/careers/available-positions/" style="color: white"> Advanced Full Stack Software Engineer - (JavaScript Focus) </a>
+                    </p>
+                    <p> 
+                        <a href="https://www.relativity.com/careers/available-positions/" style="color: white"> Account Executive - Enterprise </a>
+                    </p>
+                    <p> 
+                        <a href="https://www.relativity.com/careers/available-positions/" style="color: white"> Application Analyst </a>
+                    </p>
+                    <p> 
+                        <a href="https://www.relativity.com/careers/available-positions/" style="color: white"> Associate Product Designer </a>
+                    </p>
+                    <p> 
+                        <a href="https://www.relativity.com/careers/available-positions/" style="color: white"> Advanced Software Engineer in Test </a>
+                    </p>
+                    <p> 
+                        <a href="https://www.relativity.com/careers/available-positions/" style="color: white"> Advanced Software Engineer - Platform </a>
+                    </p>
+                    <p> 
+                        <a href="https://www.relativity.com/careers/available-positions/" style="color: white"> Advanced Software Engineer - Legal Hold </a>
+                    </p>
+                    <p> 
+                        <a href="https://www.relativity.com/careers/available-positions/" style="color: white"> Cloud Architect - Azure </a>
+                    </p>
+                    <p> 
+                        <a href="https://www.relativity.com/careers/available-positions/" style="color: white"> Cyber Security Analyst </a>
+                    </p>
+                    
+                </font>
+            </div>
+        </center>
+        
+    </body>
+    
+</html>
